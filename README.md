@@ -1,2 +1,1 @@
-
-![header_nav_logo](https://user-images.githubusercontent.com/116323113/199845614-8a3345b5-1659-47a3-bfd7-15221fee530e.png)
+Gwen is a Minecraft Anti-Cheat developed for a popular server known as Mineplex, thier Anti-Cheat checks are very few but I will explain what checks they do have and how to avoid detection from then
