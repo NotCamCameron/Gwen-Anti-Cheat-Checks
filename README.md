@@ -1,1 +1,6 @@
-Gwen is a Minecraft Anti-Cheat developed for a popular server known as Mineplex, thier Anti-Cheat checks are very few but I will explain what checks they do have and how to avoid detection from then
+This is a repository that will explain the Anti-Cheat checks of a popular server known as Mineplex. Mineplex Bedrock Edition uses a very old Anti-Cheat named Gwen, the Anti-Cheat is extremely easy to bypass as long as you avoid the few checks the Anti-Cheat has.
+
+
+Y-Check
+
+Gwen can only flag a flying player if it goes above block level Y and not fall down for a small span of time, for example, if I was to fly from one island to another and not go above the level of the block I flew from, then Gwen will ne be able to detect me.
